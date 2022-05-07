@@ -6,7 +6,7 @@ Command Line: find [-r] [-d directory] filename.txt
 Кроме самой программы, следует написать автоматические тесты к ней.
 
 
--d C:\Users\Dmitry\Desktop\laba2Kotlin\dimaLaba2Var4\input\folder find 7.txt
+
 java -jar ./build/libs/dimaLaba2Var4-1.0-SNAPSHOT.jar -d C:\Users\Dmitry\Desktop\laba2Kotlin\dimaLaba2Var4\input\ find 4.txt
 
 java -jar ./build/libs/dimaLaba2Var4-1.0-SNAPSHOT.jar -d C:\Users\Dmitry\Desktop\laba2Kotlin\dimaLaba2Var4\input\ -r  find 4.txt

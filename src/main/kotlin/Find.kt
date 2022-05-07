@@ -49,7 +49,7 @@ class Find
         }
         else
         {
-            println(output)
+            println(".\\laba2Kotlin\\redect\\dimaLaba2Var4\\..." + output)
         }
         return output
     }

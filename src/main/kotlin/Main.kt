@@ -1,4 +1,5 @@
 fun main(args: Array<String>)
 {
-    Findlaunch().launch(args)
+    FindLaunch().launch(args)
 }
+
